@@ -1,0 +1,134 @@
+{
+	"rankingList": [{
+			"score": 1407,
+			"bizId": "24115948:87070154",
+			"sn": 1,
+			"info": {
+				"uid": "24115948",
+				"cpUid": "87070154",
+				"cpName": "baby",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/mBXBsVw6d1DQu?imageView/2/w/200/h/200",
+				"myName": "babe",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/yT82fIRQhAFeb?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 1226,
+			"bizId": "51786721:81245977",
+			"sn": 2,
+			"info": {
+				"uid": "51786721",
+				"cpUid": "81245977",
+				"cpName": "不眠",
+				"myIcon": "https://qiniustatic.wodidashi.com/picture/6sWu3WOVDAOXH?imageView/2/w/200/h/200",
+				"myName": "可可",
+				"cpIcon": "https://qiniustatic.wodidashi.com/picture/M7MM4KQuOB6ov?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 708,
+			"bizId": "30894964:41586009",
+			"sn": 3,
+			"info": {
+				"uid": "30894964",
+				"cpUid": "41586009",
+				"cpName": "霸霸",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/U5xxvVo6lJBhw?imageView/2/w/200/h/200",
+				"myName": "跌跌",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/IYkUKZJra1fKc?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 414,
+			"bizId": "26721966:98705239",
+			"sn": 4,
+			"info": {
+				"uid": "26721966",
+				"cpUid": "98705239",
+				"cpName": "微凉",
+				"myIcon": "https://qiniustatic.wodidashi.com/picture/7txZesIyNzgfC?imageView/2/w/200/h/200",
+				"myName": "面对疾风吧",
+				"cpIcon": "https://qiniustatic.wodidashi.com/picture/eauWGxxYzBOik?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 406,
+			"bizId": "56645469:73768253",
+			"sn": 5,
+			"info": {
+				"uid": "56645469",
+				"cpUid": "73768253",
+				"cpName": "°Arya",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/JBOy0Velkd0pP?imageView/2/w/200/h/200",
+				"myName": "LeGrablue",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/SIbwQgfO9Vk3z?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 402,
+			"bizId": "78334133:95307937",
+			"sn": 6,
+			"info": {
+				"uid": "78334133",
+				"cpUid": "95307937",
+				"cpName": "歆",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/vEedUVU0MVfah?imageView/2/w/200/h/200",
+				"myName": "凡尘",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/fjGa92RP04oV5?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 377,
+			"bizId": "59918308:91785085",
+			"sn": 7,
+			"info": {
+				"uid": "59918308",
+				"cpUid": "91785085",
+				"cpName": "佳人浅笑",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/J7PWVOQ0jkozR?imageView/2/w/200/h/200",
+				"myName": "佛系噜猫",
+				"cpIcon": "https://qiniustatic.wodidashi.com/picture/K2xt68IIkZbEH?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 377,
+			"bizId": "104966305:47201011",
+			"sn": 8,
+			"info": {
+				"uid": "104966305",
+				"cpUid": "47201011",
+				"cpName": "林懒觉",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/mp68eMe5hrT5L?imageView/2/w/200/h/200",
+				"myName": "小小兔",
+				"cpIcon": "https://qiniustatic.wodidashi.com/picture/f8jnfIIjR5DOp?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 290,
+			"bizId": "59084714:60484424",
+			"sn": 9,
+			"info": {
+				"uid": "59084714",
+				"cpUid": "60484424",
+				"cpName": "睡了不想醒",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/F7p30sa4vL4xk?imageView/2/w/200/h/200",
+				"myName": "安声",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/9Pp7xjEBvvXyw?imageView/2/w/200/h/200"
+			}
+		},
+		{
+			"score": 224,
+			"bizId": "70602941:86820742",
+			"sn": 10,
+			"info": {
+				"uid": "70602941",
+				"cpUid": "86820742",
+				"cpName": "桥本绘见",
+				"myIcon": "https://qiniustatic.wodidashi.com/head/JWUvWvKQN2dlE?imageView/2/w/200/h/200",
+				"myName": "Sun ¿",
+				"cpIcon": "https://qiniustatic.wodidashi.com/head/oMSCcO1ZGHylK?imageView/2/w/200/h/200"
+			}
+		}
+	]
+}
+
